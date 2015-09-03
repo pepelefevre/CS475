@@ -1,0 +1,3 @@
+ 
+export OMP_NUM_THREADS=16
+./mandOMP 1000
