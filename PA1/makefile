@@ -1,5 +1,5 @@
 CC = gcc
-EXEC = jacobi_1D_SEQ jacobi_2D_SEQ  mat_vec_SEQ
+EXEC = jacobi_1D_SEQ jacobi_2D_SEQ  mat_vec_SEQ jacobi_1D jacobi_2D mat_vec
 OBJS = timer.o
 H_FILE = timer.h
 MATHFLAG = -lm
@@ -10,7 +10,7 @@ all: $(EXEC)
 jacobi_1D_SEQ: jacobi_1D.c $(OBJS) $(H_FILE)
 	$(CC) $(SEQFLAGS) $(MATHFLAG) -o $@ jacobi_1D.c  $(OBJS)
 
-
+	
 jacobi_2D_SEQ: jacobi_2D.c $(OBJS) $(H_FILE)
 	$(CC) $(SEQFLAGS) $(MATHFLAG) -o $@ jacobi_2D.c $(OBJS)
 
@@ -18,7 +18,19 @@ jacobi_2D_SEQ: jacobi_2D.c $(OBJS) $(H_FILE)
 mat_vec_SEQ: mat_vec.c $(OBJS) $(H_FILE)
 	$(CC) $(SEQFLAGS) $(MATHFLAG) -o $@ mat_vec.c $(OBJS)
 
+	
+jacobi_1D: jacobi_1D.c $(OBJS) $(H_FILE)
+	$(CC) $(FLAGS) $(MATHFLAG) -o $@ jacobi_1D.c  $(OBJS)
 
+	
+jacobi_2D: jacobi_2D.c $(OBJS) $(H_FILE)
+	$(CC) $(FLAGS) $(MATHFLAG) -o $@ jacobi_2D.c $(OBJS)
+
+
+mat_vec: mat_vec.c $(OBJS) $(H_FILE)
+	$(CC) $(FLAGS) $(MATHFLAG) -o $@ mat_vec.c $(OBJS)
+	
+	
 timer.o: timer.c
 	$(CC) $(SEQFLAGS) -o $@ -c timer.c
 
