@@ -83,7 +83,7 @@ int main(int argc, char ** argv) {
    initialize_timer();
    start_timer();
 
-#pragma omp parallel for private(j,counter,c_real,c_imag,z_real,z_imag,z_current_real,z_magnitude)
+#pragma omp parallel for schedule(runtime) private(j,counter,c_real,c_imag,z_real,z_imag,z_current_real,z_magnitude)
 
    for(i=0; i<Y_RANGE; ++i) {
       for(j=0; j<X_RANGE; ++j) {
