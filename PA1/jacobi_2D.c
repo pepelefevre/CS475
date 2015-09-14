@@ -71,7 +71,7 @@ int main(int argc, char **argv) {
    // Computation
    t = 0;
 
-#pragma omp parallel private(prev, cur, i, j, t)
+#pragma omp parallel private(i, j, t)
    while ( t < MAX_ITERATION) {
 
       // Computation
