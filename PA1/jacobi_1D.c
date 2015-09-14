@@ -63,10 +63,11 @@ int main(int argc, char **argv) {
    // Computation
    t = 0;
 
-
+#pragma omp parallel private(prev, cur, i, t)
    while ( t < MAX_ITERATION) {
 
       // Computation
+#pragma omp for schedule(runtime)
       for ( i=1 ; i < N-1 ; i++ ) {
             cur[i] = (prev[i-1]+prev[i]+prev[i+1])/3;
        }

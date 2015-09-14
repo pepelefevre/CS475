@@ -1,5 +1,5 @@
 
-num_threads= schedule=
+num_threads=1 schedule=
 
 while getopts t:s: opt; do
   case $opt in
@@ -16,8 +16,8 @@ shift $((OPTIND - 1))
 
 while [ $num_threads -lt 9 ]; do  
   export OMP_NUM_THREADS=$num_threads
-  # export OMP_SCHEDULE=$schedule
-  # echo $schedule
+  export OMP_SCHEDULE=$schedule
+  echo $schedule
   echo $num_threads
   for run in {1..5}
   do

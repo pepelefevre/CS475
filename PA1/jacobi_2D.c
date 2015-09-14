@@ -71,10 +71,11 @@ int main(int argc, char **argv) {
    // Computation
    t = 0;
 
-
+#pragma omp parallel private(prev, cur, i, j, t)
    while ( t < MAX_ITERATION) {
 
       // Computation
+#pragma omp for schedule(runtime)
       for ( i=1 ; i < N-1 ; i++ ) {
          for ( j=1 ; j < N-1 ; j++ ) {
             cur(i,j) = ((prev(i-1,j-1)+prev(i-1,j)+prev(i-1,j+1)+prev(i,j-1)+prev(i,j)+prev(i,j+1)+prev(i+1,j-1)+prev(i+1,j)+prev(i+1,j+1)))/9;
