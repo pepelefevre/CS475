@@ -17,21 +17,16 @@
 #include <math.h>
 #include "timer.h"
 
-#define BLKSIZE 1000000
-#define MIN(x,y) (((x) < (y)) ? (x) : (y))
-
 int main(int argc, char **argv) {
 
    long N  = 100;
 
    char *mark;
-   char *primes;
 
    long   size;
    long   curr;
-   long   i,ii, j,n;
+   long   i, j,n;
    long   count;
-   long blockStart;
 
    /* Time */
 
@@ -46,34 +41,18 @@ int main(int argc, char **argv) {
 
    size = (N+1)*sizeof(char);
    mark = (char *)malloc(size);
-   primes = (char *)malloc(size/2);
 
    for (i=2; i<=N; i=i+1){
      mark[i]=0;
    }
 
-   count = 2;
-blockStart = 0;
-   primes[0]=2;
-   primes[1]=3;
    curr=3;       /*first prime*/
-   for (j=2; curr*curr*curr*curr<=N; j++) {
-   for (i=curr*curr; i*i<=N; i=i+(2*curr))
+   while (curr*curr<=N) {
+   for (i=curr*curr; i<=N; i=i+(2*curr))
       mark[i]=1;
    while (mark[curr+=2]) ; /* do nothing */
-     primes[j] = curr;
-     count++;
+   
    }
-
-printf("\t bS: %ld \n", blockStart);
-printf("\t count: %ld \n", count);
-for (i=0; i<count; i++)
-printf("\t prime: %ld \n", primes[i]);
-
-   for(ii=blockStart; ii<=N; ii+=BLKSIZE)
-      for(j=0; j<count; j++)
-         for(i=ii; i<=MIN(ii+BLKSIZE, N); i+=primes[j])
-	    mark[i]=1;
 
    /* stop timer */
    stop_timer();

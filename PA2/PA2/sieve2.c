@@ -17,24 +17,17 @@
 #include <math.h>
 #include "timer.h"
 
-#define BLKSIZE 1000000
-#define MIN(x,y) (((x) < (y)) ? (x) : (y))
-
 int main(int argc, char **argv) {
 
    long N  = 100;
 
    char *mark;
-   long *primes;
 
    long   size;
    long   curr;
-   long   i,ii, j,n;
+   long   i, j,n;
    long   count;
-   long blockStart;
-   long start=0;
-long primesq=0;
-long oddprime=0;
+
    /* Time */
 
    double time;
@@ -48,32 +41,21 @@ long oddprime=0;
 
    size = (N+1)*sizeof(char);
    mark = (char *)malloc(size);
-   primes = (long *)malloc((N/2)*sizeof(long));
 
+#pragma omp parallel private(i, curr)
+{ 
+#pragma omp for schedule(static)
    for (i=2; i<=N; i=i+1){
      mark[i]=0;
    }
 
-   count = 0;
-
    curr=3;       /*first prime*/
-   for (j=0; curr*curr<=N; j++) {
-     primes[j] = curr;  //Store primes in array
-     count++;		//Numprimes
-   for (i=curr*curr; i*i<=N; i=i+(2*curr)){
+   while (curr*curr<=N) {
+#pragma omp for schedule(static)
+   for (i=curr*curr; i<=N; i=i+(2*curr))
       mark[i]=1;
-   }
    while (mark[curr+=2]) ; /* do nothing */
    }
-
-   for(ii=curr; ii<=N; ii+=100000)   //Block loop
-      for(j=0; j<count; j++) {         //Iterate through primes
-	primesq=primes[j]*primes[j];
-	oddprime=primes[j]*(primes[j]+2);
-	start=(primesq<curr) ? oddprime : primesq;	
-	for(i=start; i<=MIN(N,(ii+100000)); i=i+(primes[j])) {
-            mark[i]=1;
-}
 }
 
    /* stop timer */

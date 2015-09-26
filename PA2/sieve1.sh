@@ -2,17 +2,18 @@
 make sieve1
 
 echo 100000
-for run in {1..3}
+for run in {1..5}
 do
-  ./sieve1 100000
+
+  ./sieve1 500000000
 done
 echo 200000
-for run in {1..3}
+for run in {1..5}
 do
-  ./sieve1 200000
+  ./sieve1 1000000000
 done
 echo 300000
-for run in {1..3}
+for run in {1..5}
 do
-  ./sieve1 300000
+  ./sieve1 1500000000
 done
