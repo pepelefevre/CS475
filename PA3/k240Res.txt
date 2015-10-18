@@ -1,0 +1,98 @@
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.031591.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.031984.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.029180.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.044965.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.037542.
+1
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.185296.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.184830.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.184577.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.181388.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 1.181952.
+2
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.627707.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.682196.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.652284.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.621686.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.626843.
+3
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.431504.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.522751.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.432397.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.433182.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.433953.
+4
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.334187.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.334928.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.333599.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.334876.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.332958.
+5
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.284625.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.269016.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.296658.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.267782.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.269256.
+6
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.234897.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.225085.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.225795.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.226240.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.225950.
+7
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.195746.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.197395.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.196084.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.196536.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.196425.
+8
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.282304.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.272470.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.282157.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.279796.
+The number of objects is 240, and the capacity is 1920000.
+The optimal profit is 1925938 Time taken : 0.280076.

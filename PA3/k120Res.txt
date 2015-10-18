@@ -1,0 +1,98 @@
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.044441.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.048152.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.043343.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.053166.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.043609.
+1
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.190021.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.187863.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.190069.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.190098.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 1.191044.
+2
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.629054.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.634499.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.628119.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.629614.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.654352.
+3
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.441508.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.441165.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.438514.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.438748.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.440383.
+4
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.340223.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.337930.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.339205.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.337679.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.337373.
+5
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.272899.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.275115.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.272455.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.274318.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.272407.
+6
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.231901.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.229996.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.228452.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.230864.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.230257.
+7
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.200621.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.199849.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.199805.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.199841.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.200285.
+8
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.280802.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.280809.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.281549.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.281411.
+The number of objects is 120, and the capacity is 3840000.
+The optimal profit is 3896997 Time taken : 0.281261.
