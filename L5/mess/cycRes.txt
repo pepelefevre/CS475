@@ -40,3 +40,73 @@
 0.000069 
 0.000072 
 0.000062 
+2
+Number, size of messages:   5 , 100 
+0.000016 
+Bandwidth          = 62601552.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000015 
+Bandwidth          = 66576252.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000018 
+Bandwidth          = 55924052.000000 bytes per second
+3
+Number, size of messages:   5 , 100 
+0.000031 
+Bandwidth          = 32263876.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000028 
+Bandwidth          = 35848752.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000030 
+Bandwidth          = 33288126.000000 bytes per second
+4
+Number, size of messages:   5 , 100 
+0.000039 
+Bandwidth          = 25731926.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000041 
+Bandwidth          = 24385488.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000032 
+Bandwidth          = 31300776.000000 bytes per second
+5
+Number, size of messages:   5 , 100 
+0.000052 
+Bandwidth          = 19239926.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000045 
+Bandwidth          = 22310128.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000052 
+Bandwidth          = 19239926.000000 bytes per second
+6
+Number, size of messages:   5 , 100 
+0.000070 
+Bandwidth          = 14315031.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000063 
+Bandwidth          = 15887515.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000062 
+Bandwidth          = 16131938.000000 bytes per second
+7
+Number, size of messages:   5 , 100 
+0.000075 
+Bandwidth          = 13357656.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000077 
+Bandwidth          = 12985461.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000068 
+Bandwidth          = 14716856.000000 bytes per second
+8
+Number, size of messages:   5 , 100 
+0.000093 
+Bandwidth          = 10754626.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000077 
+Bandwidth          = 12985461.000000 bytes per second
+Number, size of messages:   5 , 100 
+0.000076 
+Bandwidth          = 13189635.000000 bytes per second
