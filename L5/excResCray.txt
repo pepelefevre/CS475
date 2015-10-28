@@ -1,0 +1,56 @@
+2
+3
+4
+5
+6
+7
+8
+2
+Loop complete.  Elapsed time is 0.0000217 seconds
+Application 58626 resources: utime ~0s, stime ~0s, Rss ~14736, inblocks ~5914, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000207 seconds
+Application 58629 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~5914, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000207 seconds
+Application 58632 resources: utime ~0s, stime ~0s, Rss ~14748, inblocks ~5914, outblocks ~14750
+3
+Loop complete.  Elapsed time is 0.0000327 seconds
+Application 58636 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~5990, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000337 seconds
+Application 58640 resources: utime ~0s, stime ~0s, Rss ~14748, inblocks ~5990, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000327 seconds
+Application 58643 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~5990, outblocks ~14750
+4
+Loop complete.  Elapsed time is 0.0000437 seconds
+Application 58646 resources: utime ~0s, stime ~1s, Rss ~14768, inblocks ~6067, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000447 seconds
+Application 58649 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~6067, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000417 seconds
+Application 58652 resources: utime ~0s, stime ~1s, Rss ~14780, inblocks ~6067, outblocks ~14750
+5
+Loop complete.  Elapsed time is 0.0000517 seconds
+Application 58655 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~6143, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000527 seconds
+Application 58659 resources: utime ~0s, stime ~1s, Rss ~14784, inblocks ~6143, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000517 seconds
+Application 58662 resources: utime ~0s, stime ~0s, Rss ~9092, inblocks ~6143, outblocks ~14750
+6
+Loop complete.  Elapsed time is 0.0000557 seconds
+Application 58665 resources: utime ~0s, stime ~1s, Rss ~14796, inblocks ~6219, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000687 seconds
+Application 58668 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6219, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000577 seconds
+Application 58672 resources: utime ~0s, stime ~1s, Rss ~14808, inblocks ~6219, outblocks ~14750
+7
+Loop complete.  Elapsed time is 0.0000637 seconds
+Application 58675 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6295, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000647 seconds
+Application 58678 resources: utime ~0s, stime ~1s, Rss ~14816, inblocks ~6295, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000747 seconds
+Application 58682 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6295, outblocks ~14750
+8
+Loop complete.  Elapsed time is 0.0000707 seconds
+Application 58685 resources: utime ~0s, stime ~1s, Rss ~14828, inblocks ~6371, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000717 seconds
+Application 58688 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6371, outblocks ~14750
+Loop complete.  Elapsed time is 0.0000727 seconds
+Application 58691 resources: utime ~0s, stime ~1s, Rss ~14840, inblocks ~6371, outblocks ~14750

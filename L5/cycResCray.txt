@@ -1,0 +1,111 @@
+2
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000020 seconds
+Bandwidth          = 49932192.000000 bytes per second
+Application 58612 resources: utime ~0s, stime ~0s, Rss ~14692, inblocks ~5914, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000020 seconds
+Bandwidth          = 49932192.000000 bytes per second
+Application 58613 resources: utime ~0s, stime ~0s, Rss ~14696, inblocks ~5914, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000020 seconds
+Bandwidth          = 49932192.000000 bytes per second
+Application 58614 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~5914, outblocks ~14750
+2
+3
+4
+5
+6
+7
+8
+2
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000019 seconds
+Bandwidth          = 52428800.000000 bytes per second
+Application 58625 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~5914, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000020 seconds
+Bandwidth          = 49932192.000000 bytes per second
+Application 58628 resources: utime ~0s, stime ~0s, Rss ~14736, inblocks ~5914, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000020 seconds
+Bandwidth          = 49932192.000000 bytes per second
+Application 58631 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~5914, outblocks ~14750
+3
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000032 seconds
+Bandwidth          = 31300776.000000 bytes per second
+Application 58635 resources: utime ~0s, stime ~0s, Rss ~14748, inblocks ~5990, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000039 seconds
+Bandwidth          = 25575024.000000 bytes per second
+Application 58639 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~5990, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000030 seconds
+Bandwidth          = 33554432.000000 bytes per second
+Application 58642 resources: utime ~0s, stime ~0s, Rss ~14764, inblocks ~5990, outblocks ~14750
+4
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000038 seconds
+Bandwidth          = 26379270.000000 bytes per second
+Application 58645 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~6067, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000038 seconds
+Bandwidth          = 26379270.000000 bytes per second
+Application 58648 resources: utime ~0s, stime ~1s, Rss ~14768, inblocks ~6067, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000046 seconds
+Bandwidth          = 21732146.000000 bytes per second
+Application 58651 resources: utime ~0s, stime ~0s, Rss ~9020, inblocks ~6067, outblocks ~14750
+5
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000048 seconds
+Bandwidth          = 20867184.000000 bytes per second
+Application 58654 resources: utime ~0s, stime ~1s, Rss ~14780, inblocks ~6143, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000049 seconds
+Bandwidth          = 20360700.000000 bytes per second
+Application 58658 resources: utime ~0s, stime ~0s, Rss ~9092, inblocks ~6143, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000056 seconds
+Bandwidth          = 17848102.000000 bytes per second
+Application 58661 resources: utime ~0s, stime ~1s, Rss ~14784, inblocks ~6143, outblocks ~14750
+6
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000051 seconds
+Bandwidth          = 19599552.000000 bytes per second
+Application 58664 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6219, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000052 seconds
+Bandwidth          = 19239926.000000 bytes per second
+Application 58667 resources: utime ~0s, stime ~1s, Rss ~14796, inblocks ~6219, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000066 seconds
+Bandwidth          = 15141892.000000 bytes per second
+Application 58671 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6219, outblocks ~14750
+7
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000066 seconds
+Bandwidth          = 15141892.000000 bytes per second
+Application 58674 resources: utime ~0s, stime ~1s, Rss ~14808, inblocks ~6295, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000062 seconds
+Bandwidth          = 16131938.000000 bytes per second
+Application 58677 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6295, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000060 seconds
+Bandwidth          = 16710375.000000 bytes per second
+Application 58681 resources: utime ~0s, stime ~1s, Rss ~14824, inblocks ~6295, outblocks ~14750
+8
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000080 seconds
+Bandwidth          = 12483048.000000 bytes per second
+Application 58684 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6371, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000067 seconds
+Bandwidth          = 14926349.000000 bytes per second
+Application 58687 resources: utime ~0s, stime ~1s, Rss ~14836, inblocks ~6371, outblocks ~14750
+Number, size of messages:   5 , 100 
+Wallclock time     = 0.000068 seconds
+Bandwidth          = 14716856.000000 bytes per second
+Application 58690 resources: utime ~0s, stime ~1s, Rss ~9092, inblocks ~6371, outblocks ~14750
