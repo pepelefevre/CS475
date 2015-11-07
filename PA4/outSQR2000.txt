@@ -1,0 +1,643 @@
+1
+Time: 1.304807
+Application 62453 resources: utime ~2s, stime ~0s, Rss ~78328, inblocks ~5882, outblocks ~14858
+Time: 1.304358
+Application 62454 resources: utime ~2s, stime ~0s, Rss ~78328, inblocks ~5882, outblocks ~14858
+Time: 1.304982
+Application 62455 resources: utime ~2s, stime ~0s, Rss ~78328, inblocks ~5882, outblocks ~14858
+2
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62456 exit codes: 134
+Application 62456 resources: utime ~0s, stime ~0s, Rss ~22336, inblocks ~5893, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62457 exit codes: 134
+Application 62457 resources: utime ~0s, stime ~0s, Rss ~22336, inblocks ~5893, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62458 exit codes: 134
+Application 62458 resources: utime ~0s, stime ~0s, Rss ~22336, inblocks ~5893, outblocks ~14858
+3
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62459 exit codes: 134
+Application 62459 resources: utime ~0s, stime ~0s, Rss ~22064, inblocks ~5895, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62460 exit codes: 134
+Application 62460 resources: utime ~0s, stime ~0s, Rss ~22064, inblocks ~5895, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62461 exit codes: 134
+Application 62461 resources: utime ~0s, stime ~0s, Rss ~22064, inblocks ~5895, outblocks ~14858
+4
+Time: 0.801976
+Application 62462 resources: utime ~3s, stime ~0s, Rss ~24052, inblocks ~6111, outblocks ~14858
+Time: 0.774950
+Application 62463 resources: utime ~3s, stime ~0s, Rss ~24052, inblocks ~6111, outblocks ~14858
+Time: 0.774685
+Application 62464 resources: utime ~3s, stime ~0s, Rss ~24052, inblocks ~6111, outblocks ~14858
+5
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62465 exit codes: 134
+Application 62465 resources: utime ~0s, stime ~0s, Rss ~6268, inblocks ~5897, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62466 exit codes: 134
+Application 62466 resources: utime ~0s, stime ~0s, Rss ~6268, inblocks ~5897, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62467 exit codes: 134
+Application 62467 resources: utime ~0s, stime ~0s, Rss ~6268, inblocks ~5897, outblocks ~14858
+6
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62468 exit codes: 134
+Application 62468 resources: utime ~0s, stime ~0s, Rss ~8368, inblocks ~5898, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62469 exit codes: 134
+Application 62469 resources: utime ~0s, stime ~0s, Rss ~8368, inblocks ~5898, outblocks ~14858
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62470 exit codes: 134
+Application 62470 resources: utime ~0s, stime ~0s, Rss ~8364, inblocks ~5898, outblocks ~14858
+7
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62471 exit codes: 134
+Application 62471 resources: utime ~0s, stime ~0s, Rss ~9204, inblocks ~5899, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62472 exit codes: 134
+Application 62472 resources: utime ~0s, stime ~0s, Rss ~9204, inblocks ~5899, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62473 exit codes: 134
+Application 62473 resources: utime ~0s, stime ~0s, Rss ~9204, inblocks ~5899, outblocks ~14859
+8
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62474 exit codes: 134
+Application 62474 resources: utime ~0s, stime ~0s, Rss ~12852, inblocks ~5900, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62475 exit codes: 134
+Application 62475 resources: utime ~0s, stime ~0s, Rss ~12852, inblocks ~5900, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62476 exit codes: 134
+Application 62476 resources: utime ~0s, stime ~0s, Rss ~12852, inblocks ~5900, outblocks ~14859
+9
+Time: 0.612243
+Application 62477 resources: utime ~6s, stime ~1s, Rss ~13284, inblocks ~6491, outblocks ~14859
+Time: 0.610270
+Application 62478 resources: utime ~6s, stime ~1s, Rss ~13284, inblocks ~6491, outblocks ~14859
+Time: 0.618023
+Application 62479 resources: utime ~6s, stime ~1s, Rss ~13284, inblocks ~6491, outblocks ~14859
+10
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62480 exit codes: 134
+Application 62480 resources: utime ~0s, stime ~0s, Rss ~4180, inblocks ~5902, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62481 exit codes: 134
+Application 62481 resources: utime ~0s, stime ~0s, Rss ~4824, inblocks ~5902, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62482 exit codes: 134
+Application 62482 resources: utime ~0s, stime ~0s, Rss ~4180, inblocks ~5902, outblocks ~14859
+11
+Application 62483 resources: utime ~0s, stime ~1s, Rss ~4824, inblocks ~6643, outblocks ~14859
+Application 62484 resources: utime ~0s, stime ~0s, Rss ~4076, inblocks ~6643, outblocks ~14859
+Application 62485 resources: utime ~0s, stime ~1s, Rss ~4828, inblocks ~6643, outblocks ~14859
+12
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62486 exit codes: 134
+Application 62486 resources: utime ~0s, stime ~0s, Rss ~5840, inblocks ~5904, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62487 exit codes: 134
+Application 62487 resources: utime ~0s, stime ~1s, Rss ~5840, inblocks ~5904, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62488 exit codes: 134
+Application 62488 resources: utime ~0s, stime ~0s, Rss ~5840, inblocks ~5904, outblocks ~14859
+13
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62489 exit codes: 134
+Application 62489 resources: utime ~0s, stime ~1s, Rss ~6444, inblocks ~5905, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62490 exit codes: 134
+Application 62490 resources: utime ~0s, stime ~0s, Rss ~6444, inblocks ~5905, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62491 exit codes: 134
+Application 62491 resources: utime ~0s, stime ~1s, Rss ~6444, inblocks ~5905, outblocks ~14859
+14
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62492 exit codes: 134
+Application 62492 resources: utime ~0s, stime ~0s, Rss ~7068, inblocks ~5906, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62493 exit codes: 134
+Application 62493 resources: utime ~0s, stime ~1s, Rss ~7068, inblocks ~5906, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62494 exit codes: 134
+Application 62494 resources: utime ~0s, stime ~0s, Rss ~7068, inblocks ~5906, outblocks ~14859
+15
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62495 exit codes: 134
+Application 62495 resources: utime ~0s, stime ~1s, Rss ~7368, inblocks ~5907, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62496 exit codes: 134
+Application 62496 resources: utime ~0s, stime ~1s, Rss ~7368, inblocks ~5907, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62497 exit codes: 134
+Application 62497 resources: utime ~0s, stime ~1s, Rss ~7368, inblocks ~5907, outblocks ~14859
+16
+Time: 0.334039
+Application 62498 resources: utime ~6s, stime ~1s, Rss ~7016, inblocks ~7024, outblocks ~14859
+Time: 0.331255
+Application 62499 resources: utime ~6s, stime ~1s, Rss ~7016, inblocks ~7024, outblocks ~14859
+Time: 0.325426
+Application 62500 resources: utime ~6s, stime ~1s, Rss ~7016, inblocks ~7024, outblocks ~14859
+17
+Application 62501 resources: utime ~0s, stime ~1s, Rss ~4844, inblocks ~7100, outblocks ~14859
+Application 62502 resources: utime ~0s, stime ~1s, Rss ~4088, inblocks ~7100, outblocks ~14859
+Application 62503 resources: utime ~0s, stime ~1s, Rss ~4844, inblocks ~7100, outblocks ~14859
+18
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62504 exit codes: 134
+Application 62504 resources: utime ~0s, stime ~1s, Rss ~4136, inblocks ~5911, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62505 exit codes: 134
+Application 62505 resources: utime ~0s, stime ~1s, Rss ~4848, inblocks ~5911, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62506 exit codes: 134
+Application 62506 resources: utime ~0s, stime ~1s, Rss ~4136, inblocks ~5911, outblocks ~14859
+19
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62507 exit codes: 134
+Application 62507 resources: utime ~0s, stime ~1s, Rss ~4852, inblocks ~5912, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62508 exit codes: 134
+Application 62508 resources: utime ~0s, stime ~1s, Rss ~4536, inblocks ~5912, outblocks ~14859
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62509 exit codes: 134
+Application 62509 resources: utime ~0s, stime ~1s, Rss ~4852, inblocks ~5912, outblocks ~14859
+20
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62510 exit codes: 134
+Application 62510 resources: utime ~0s, stime ~1s, Rss ~4932, inblocks ~5913, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62511 exit codes: 134
+Application 62511 resources: utime ~0s, stime ~1s, Rss ~4932, inblocks ~5913, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62512 exit codes: 134
+Application 62512 resources: utime ~0s, stime ~1s, Rss ~4932, inblocks ~5913, outblocks ~14860
+21
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62513 exit codes: 134
+Application 62513 resources: utime ~0s, stime ~1s, Rss ~5172, inblocks ~5914, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62514 exit codes: 134
+Application 62514 resources: utime ~0s, stime ~1s, Rss ~5172, inblocks ~5914, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62515 exit codes: 134
+Application 62515 resources: utime ~0s, stime ~1s, Rss ~5172, inblocks ~5914, outblocks ~14860
+22
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62516 exit codes: 134
+Application 62516 resources: utime ~0s, stime ~1s, Rss ~5700, inblocks ~5915, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62517 exit codes: 134
+Application 62517 resources: utime ~0s, stime ~1s, Rss ~5700, inblocks ~5915, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62518 exit codes: 134
+Application 62518 resources: utime ~0s, stime ~1s, Rss ~5700, inblocks ~5915, outblocks ~14860
+23
+Application 62519 resources: utime ~1s, stime ~2s, Rss ~4864, inblocks ~7556, outblocks ~14860
+Application 62520 resources: utime ~0s, stime ~1s, Rss ~4100, inblocks ~7556, outblocks ~14860
+Application 62521 resources: utime ~0s, stime ~2s, Rss ~4864, inblocks ~7556, outblocks ~14860
+24
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62522 exit codes: 134
+Application 62522 resources: utime ~0s, stime ~1s, Rss ~6068, inblocks ~5917, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62523 exit codes: 134
+Application 62523 resources: utime ~0s, stime ~2s, Rss ~6068, inblocks ~5917, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62524 exit codes: 134
+Application 62524 resources: utime ~0s, stime ~1s, Rss ~6068, inblocks ~5917, outblocks ~14860
+25
+Time: 0.222669
+Application 62525 resources: utime ~7s, stime ~2s, Rss ~6128, inblocks ~7708, outblocks ~14860
+Time: 0.227011
+Application 62526 resources: utime ~7s, stime ~1s, Rss ~6236, inblocks ~7708, outblocks ~14860
+Time: 0.225208
+Application 62527 resources: utime ~7s, stime ~2s, Rss ~6236, inblocks ~7708, outblocks ~14860
+26
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62528 exit codes: 134
+Application 62528 resources: utime ~0s, stime ~1s, Rss ~4104, inblocks ~5919, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62529 exit codes: 134
+Application 62529 resources: utime ~0s, stime ~2s, Rss ~4872, inblocks ~5919, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62530 exit codes: 134
+Application 62530 resources: utime ~0s, stime ~1s, Rss ~4108, inblocks ~5919, outblocks ~14860
+27
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62531 exit codes: 134
+Application 62531 resources: utime ~0s, stime ~2s, Rss ~4876, inblocks ~5920, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62532 exit codes: 134
+Application 62532 resources: utime ~0s, stime ~1s, Rss ~4108, inblocks ~5920, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62533 exit codes: 134
+Application 62533 resources: utime ~0s, stime ~2s, Rss ~4876, inblocks ~5920, outblocks ~14860
+28
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62534 exit codes: 134
+Application 62534 resources: utime ~0s, stime ~1s, Rss ~4112, inblocks ~5921, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62535 exit codes: 134
+Application 62535 resources: utime ~0s, stime ~3s, Rss ~4876, inblocks ~5921, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62536 exit codes: 134
+Application 62536 resources: utime ~0s, stime ~1s, Rss ~4112, inblocks ~5921, outblocks ~14860
+29
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62537 exit codes: 134
+Application 62537 resources: utime ~0s, stime ~3s, Rss ~4880, inblocks ~5923, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62538 exit codes: 134
+Application 62538 resources: utime ~0s, stime ~1s, Rss ~4296, inblocks ~5923, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62539 exit codes: 134
+Application 62539 resources: utime ~0s, stime ~3s, Rss ~4884, inblocks ~5923, outblocks ~14860
+30
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62540 exit codes: 134
+Application 62540 resources: utime ~0s, stime ~1s, Rss ~4472, inblocks ~5924, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62541 exit codes: 134
+Application 62541 resources: utime ~0s, stime ~2s, Rss ~4888, inblocks ~5924, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62542 exit codes: 134
+Application 62542 resources: utime ~0s, stime ~1s, Rss ~4472, inblocks ~5924, outblocks ~14860
+31
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62543 exit codes: 134
+Application 62543 resources: utime ~0s, stime ~3s, Rss ~4888, inblocks ~5925, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62544 exit codes: 134
+Application 62544 resources: utime ~0s, stime ~2s, Rss ~4692, inblocks ~5925, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62545 exit codes: 134
+Application 62545 resources: utime ~0s, stime ~2s, Rss ~4888, inblocks ~5925, outblocks ~14860
+32
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62546 exit codes: 134
+Application 62546 resources: utime ~0s, stime ~2s, Rss ~4828, inblocks ~5926, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62547 exit codes: 134
+Application 62547 resources: utime ~0s, stime ~3s, Rss ~4892, inblocks ~5926, outblocks ~14860
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62548 exit codes: 134
+Application 62548 resources: utime ~0s, stime ~2s, Rss ~4828, inblocks ~5926, outblocks ~14860
+33
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62549 exit codes: 134
+Application 62549 exit signals: Killed
+Application 62549 resources: utime ~0s, stime ~4s, Rss ~8868, inblocks ~11743, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62550 exit codes: 134
+Application 62550 exit signals: Killed
+Application 62550 resources: utime ~0s, stime ~3s, Rss ~8868, inblocks ~11743, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62551 exit codes: 134
+Application 62551 exit signals: Killed
+Application 62551 resources: utime ~0s, stime ~4s, Rss ~8320, inblocks ~11743, outblocks ~29718
+34
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62552 exit codes: 134
+Application 62552 exit signals: Killed
+Application 62552 resources: utime ~0s, stime ~4s, Rss ~8804, inblocks ~11744, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62553 exit codes: 134
+Application 62553 exit signals: Killed
+Application 62553 resources: utime ~0s, stime ~4s, Rss ~8500, inblocks ~11744, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62554 exit codes: 134
+Application 62554 exit signals: Killed
+Application 62554 resources: utime ~0s, stime ~3s, Rss ~8516, inblocks ~11744, outblocks ~29718
+35
+Application 62555 resources: utime ~20s, stime ~61s, Rss ~6988, inblocks ~14626, outblocks ~29718
+Application 62556 resources: utime ~20s, stime ~60s, Rss ~7036, inblocks ~14630, outblocks ~29718
+Application 62557 resources: utime ~21s, stime ~60s, Rss ~7052, inblocks ~14626, outblocks ~29718
+36
+Time: 0.088275
+Application 62558 resources: utime ~25s, stime ~61s, Rss ~10468, inblocks ~14716, outblocks ~29718
+Time: 0.088254
+Application 62559 resources: utime ~26s, stime ~65s, Rss ~10420, inblocks ~14712, outblocks ~29718
+Time: 0.087806
+Application 62560 resources: utime ~26s, stime ~61s, Rss ~10440, inblocks ~14716, outblocks ~29718
+37
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62561 exit codes: 134
+Application 62561 resources: utime ~2s, stime ~10s, Rss ~9884, inblocks ~11846, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62562 exit codes: 134
+Application 62562 resources: utime ~1s, stime ~8s, Rss ~9884, inblocks ~11850, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62563 exit codes: 134
+Application 62563 resources: utime ~1s, stime ~9s, Rss ~9884, inblocks ~11846, outblocks ~29718
+38
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62564 exit codes: 134
+Application 62564 resources: utime ~5s, stime ~5s, Rss ~9696, inblocks ~11843, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62565 exit codes: 134
+Application 62565 resources: utime ~4s, stime ~6s, Rss ~9696, inblocks ~11843, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62566 exit codes: 134
+Application 62566 resources: utime ~2s, stime ~8s, Rss ~9824, inblocks ~11851, outblocks ~29718
+39
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62567 exit codes: 134
+Application 62567 exit signals: Killed
+Application 62567 resources: utime ~4s, stime ~4s, Rss ~9692, inblocks ~11749, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62568 exit codes: 134
+Application 62568 exit signals: Killed
+Application 62568 resources: utime ~1s, stime ~7s, Rss ~9824, inblocks ~11757, outblocks ~29718
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62569 exit codes: 134
+Application 62569 exit signals: Killed
+Application 62569 resources: utime ~1s, stime ~8s, Rss ~9824, inblocks ~11754, outblocks ~29718
+40
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62570 exit codes: 134
+Application 62570 exit signals: Killed
+Application 62570 resources: utime ~4s, stime ~4s, Rss ~9416, inblocks ~11750, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62571 exit codes: 134
+Application 62571 exit signals: Killed
+Application 62571 resources: utime ~4s, stime ~5s, Rss ~9416, inblocks ~11750, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62572 exit codes: 134
+Application 62572 exit signals: Killed
+Application 62572 resources: utime ~4s, stime ~3s, Rss ~9416, inblocks ~11750, outblocks ~29719
+41
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62573 exit codes: 134
+Application 62573 exit signals: Killed
+Application 62573 resources: utime ~4s, stime ~4s, Rss ~8624, inblocks ~11751, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62574 exit codes: 134
+Application 62574 exit signals: Killed
+Application 62574 resources: utime ~4s, stime ~3s, Rss ~8624, inblocks ~11751, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62575 exit codes: 134
+Application 62575 exit signals: Killed
+Application 62575 resources: utime ~4s, stime ~5s, Rss ~8624, inblocks ~11751, outblocks ~29719
+42
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62576 exit codes: 134
+Application 62576 exit signals: Killed
+Application 62576 resources: utime ~3s, stime ~4s, Rss ~9456, inblocks ~11752, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62577 exit codes: 134
+Application 62577 exit signals: Killed
+Application 62577 resources: utime ~3s, stime ~4s, Rss ~8168, inblocks ~11753, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62578 exit codes: 134
+Application 62578 exit signals: Killed
+Application 62578 resources: utime ~3s, stime ~3s, Rss ~9456, inblocks ~11752, outblocks ~29719
+43
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62579 exit codes: 134
+Application 62579 exit signals: Killed
+Application 62579 resources: utime ~3s, stime ~5s, Rss ~9444, inblocks ~11753, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62580 exit codes: 134
+Application 62580 exit signals: Killed
+Application 62580 resources: utime ~3s, stime ~14s, Rss ~10612, inblocks ~11754, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62581 exit codes: 134
+Application 62581 exit signals: Killed
+Application 62581 resources: utime ~3s, stime ~26s, Rss ~19076, inblocks ~11753, outblocks ~29719
+44
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62582 exit codes: 134
+Application 62582 exit signals: Killed
+Application 62582 resources: utime ~3s, stime ~18s, Rss ~10620, inblocks ~11754, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62583 exit codes: 134
+Application 62583 exit signals: Killed
+Application 62583 resources: utime ~3s, stime ~25s, Rss ~19084, inblocks ~11754, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62584 exit codes: 134
+Application 62584 exit signals: Killed
+Application 62584 resources: utime ~3s, stime ~16s, Rss ~10624, inblocks ~11754, outblocks ~29719
+45
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62585 exit codes: 134
+Application 62585 exit signals: Killed
+Application 62585 resources: utime ~3s, stime ~31s, Rss ~19084, inblocks ~11755, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62586 exit codes: 134
+Application 62586 exit signals: Killed
+Application 62586 resources: utime ~3s, stime ~14s, Rss ~10628, inblocks ~11755, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62587 exit codes: 134
+Application 62587 exit signals: Killed
+Application 62587 resources: utime ~3s, stime ~26s, Rss ~19084, inblocks ~11755, outblocks ~29719
+46
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62589 exit codes: 134
+Application 62589 exit signals: Killed
+Application 62589 resources: utime ~2s, stime ~14s, Rss ~10628, inblocks ~11756, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62590 exit codes: 134
+Application 62590 exit signals: Killed
+Application 62590 resources: utime ~2s, stime ~25s, Rss ~19088, inblocks ~11756, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62592 exit codes: 134
+Application 62592 exit signals: Killed
+Application 62592 resources: utime ~2s, stime ~16s, Rss ~10636, inblocks ~11756, outblocks ~29719
+47
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62596 exit codes: 134
+Application 62596 exit signals: Killed
+Application 62596 resources: utime ~3s, stime ~6s, Rss ~8136, inblocks ~11758, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62600 exit codes: 134
+Application 62600 exit signals: Killed
+Application 62600 resources: utime ~3s, stime ~4s, Rss ~8136, inblocks ~11758, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62601 exit codes: 134
+Application 62601 exit signals: Killed
+Application 62601 resources: utime ~3s, stime ~5s, Rss ~8136, inblocks ~11758, outblocks ~29719
+48
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62603 exit codes: 134
+Application 62603 exit signals: Killed
+Application 62603 resources: utime ~3s, stime ~6s, Rss ~8064, inblocks ~11760, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62604 exit codes: 134
+Application 62604 exit signals: Killed
+Application 62604 resources: utime ~3s, stime ~4s, Rss ~8064, inblocks ~11760, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62606 exit codes: 134
+Application 62606 exit signals: Killed
+Application 62606 resources: utime ~3s, stime ~4s, Rss ~8064, inblocks ~11760, outblocks ~29719
+49
+Time: 0.047067
+Application 62607 resources: utime ~41s, stime ~97s, Rss ~9752, inblocks ~15835, outblocks ~29719
+Time: 0.047220
+Application 62608 resources: utime ~43s, stime ~98s, Rss ~9748, inblocks ~15819, outblocks ~29719
+Time: 0.047080
+Application 62610 resources: utime ~40s, stime ~98s, Rss ~9936, inblocks ~15819, outblocks ~29719
+50
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62611 exit codes: 134
+Application 62611 exit signals: Killed
+Application 62611 resources: utime ~2s, stime ~4s, Rss ~8044, inblocks ~11762, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62612 exit codes: 134
+Application 62612 exit signals: Killed
+Application 62612 resources: utime ~2s, stime ~5s, Rss ~8044, inblocks ~11762, outblocks ~29719
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62614 exit codes: 134
+Application 62614 exit signals: Killed
+Application 62614 resources: utime ~2s, stime ~5s, Rss ~8044, inblocks ~11762, outblocks ~29719
+51
+Application 62615 resources: utime ~36s, stime ~94s, Rss ~6996, inblocks ~15989, outblocks ~29719
+Application 62616 resources: utime ~35s, stime ~102s, Rss ~6988, inblocks ~16007, outblocks ~29719
+Application 62617 resources: utime ~35s, stime ~95s, Rss ~7092, inblocks ~15989, outblocks ~29719
+52
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62618 exit codes: 134
+Application 62618 exit signals: Killed
+Application 62618 resources: utime ~2s, stime ~6s, Rss ~8120, inblocks ~11764, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62620 exit codes: 134
+Application 62620 exit signals: Killed
+Application 62620 resources: utime ~2s, stime ~7s, Rss ~8116, inblocks ~11764, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62622 exit codes: 134
+Application 62622 exit signals: Killed
+Application 62622 resources: utime ~2s, stime ~6s, Rss ~8116, inblocks ~11764, outblocks ~29720
+53
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62623 exit codes: 134
+Application 62623 exit signals: Killed
+Application 62623 resources: utime ~2s, stime ~5s, Rss ~8148, inblocks ~11765, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62624 exit codes: 134
+Application 62624 exit signals: Killed
+Application 62624 resources: utime ~2s, stime ~6s, Rss ~8148, inblocks ~11765, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62625 exit codes: 134
+Application 62625 exit signals: Killed
+Application 62625 resources: utime ~2s, stime ~4s, Rss ~8152, inblocks ~11765, outblocks ~29720
+54
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62626 exit codes: 134
+Application 62626 exit signals: Killed
+Application 62626 resources: utime ~1s, stime ~6s, Rss ~8156, inblocks ~11766, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62627 exit codes: 134
+Application 62627 exit signals: Killed
+Application 62627 resources: utime ~1s, stime ~4s, Rss ~8156, inblocks ~11766, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62628 exit codes: 134
+Application 62628 exit signals: Killed
+Application 62628 resources: utime ~1s, stime ~5s, Rss ~8156, inblocks ~11766, outblocks ~29720
+55
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62630 exit codes: 134
+Application 62630 exit signals: Killed
+Application 62630 resources: utime ~1s, stime ~7s, Rss ~8132, inblocks ~11767, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62631 exit codes: 134
+Application 62631 exit signals: Killed
+Application 62631 resources: utime ~2s, stime ~5s, Rss ~8136, inblocks ~11767, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62632 exit codes: 134
+Application 62632 exit signals: Killed
+Application 62632 resources: utime ~1s, stime ~7s, Rss ~8136, inblocks ~11767, outblocks ~29720
+56
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62633 exit codes: 134
+Application 62633 exit signals: Killed
+Application 62633 resources: utime ~1s, stime ~4s, Rss ~8120, inblocks ~11768, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62634 exit codes: 134
+Application 62634 exit signals: Killed
+Application 62634 resources: utime ~1s, stime ~6s, Rss ~8120, inblocks ~11768, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62635 exit codes: 134
+Application 62635 exit signals: Killed
+Application 62635 resources: utime ~1s, stime ~5s, Rss ~8120, inblocks ~11768, outblocks ~29720
+57
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62636 exit codes: 134
+Application 62636 exit signals: Killed
+Application 62636 resources: utime ~1s, stime ~7s, Rss ~8032, inblocks ~11769, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62637 exit codes: 134
+Application 62637 exit signals: Killed
+Application 62637 resources: utime ~1s, stime ~4s, Rss ~8024, inblocks ~11769, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62638 exit codes: 134
+Application 62638 exit signals: Killed
+Application 62638 resources: utime ~1s, stime ~7s, Rss ~8032, inblocks ~11769, outblocks ~29720
+58
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62639 exit codes: 134
+Application 62639 exit signals: Killed
+Application 62639 resources: utime ~1s, stime ~4s, Rss ~8040, inblocks ~11770, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62640 exit codes: 134
+Application 62640 exit signals: Killed
+Application 62640 resources: utime ~1s, stime ~7s, Rss ~8040, inblocks ~11770, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62641 exit codes: 134
+Application 62641 exit signals: Killed
+Application 62641 resources: utime ~1s, stime ~4s, Rss ~8040, inblocks ~11770, outblocks ~29720
+59
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62642 exit codes: 134
+Application 62642 exit signals: Killed
+Application 62642 resources: utime ~1s, stime ~6s, Rss ~8100, inblocks ~11771, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62643 exit codes: 134
+Application 62643 exit signals: Killed
+Application 62643 resources: utime ~1s, stime ~4s, Rss ~8100, inblocks ~11771, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62644 exit codes: 134
+Application 62644 exit signals: Killed
+Application 62644 resources: utime ~1s, stime ~6s, Rss ~8100, inblocks ~11771, outblocks ~29720
+60
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62645 exit codes: 134
+Application 62645 exit signals: Killed
+Application 62645 resources: utime ~1s, stime ~4s, Rss ~7764, inblocks ~11772, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62646 exit codes: 134
+Application 62646 exit signals: Killed
+Application 62646 resources: utime ~1s, stime ~5s, Rss ~8144, inblocks ~11772, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62647 exit codes: 134
+Application 62647 exit signals: Killed
+Application 62647 resources: utime ~1s, stime ~4s, Rss ~8144, inblocks ~11772, outblocks ~29720
+61
+Application 62648 resources: utime ~17s, stime ~116s, Rss ~7036, inblocks ~16868, outblocks ~29720
+Application 62649 resources: utime ~15s, stime ~105s, Rss ~7032, inblocks ~16868, outblocks ~29720
+Application 62650 resources: utime ~17s, stime ~118s, Rss ~7040, inblocks ~16868, outblocks ~29720
+62
+Application 62651 resources: utime ~13s, stime ~111s, Rss ~7072, inblocks ~16954, outblocks ~29720
+Application 62652 resources: utime ~11s, stime ~105s, Rss ~7032, inblocks ~16954, outblocks ~29720
+Application 62653 resources: utime ~13s, stime ~121s, Rss ~6992, inblocks ~16954, outblocks ~29720
+63
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62654 exit codes: 134
+Application 62654 exit signals: Killed
+Application 62654 resources: utime ~0s, stime ~7s, Rss ~7920, inblocks ~11776, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62655 exit codes: 134
+Application 62655 exit signals: Killed
+Application 62655 resources: utime ~0s, stime ~4s, Rss ~7920, inblocks ~11776, outblocks ~29720
+NUMBER OF PROCESSORS TO LOW TO COMPLETE TILING
+Application 62656 exit codes: 134
+Application 62656 exit signals: Killed
+Application 62656 resources: utime ~0s, stime ~6s, Rss ~7920, inblocks ~11776, outblocks ~29720
+64
+Time: 0.032732
+Application 62657 resources: utime ~10s, stime ~110s, Rss ~9472, inblocks ~17126, outblocks ~29720
+Time: 0.034658
+Application 62658 resources: utime ~9s, stime ~116s, Rss ~9424, inblocks ~17126, outblocks ~29720
+Time: 0.033554
+Application 62659 resources: utime ~12s, stime ~106s, Rss ~9432, inblocks ~17126, outblocks ~29720

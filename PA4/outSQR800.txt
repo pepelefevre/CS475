@@ -1,0 +1,35 @@
+1
+Time: 0.205699
+Application 63787 resources: utime ~0s, stime ~0s, Rss ~21288, inblocks ~5882, outblocks ~14858
+Time: 0.205225
+Application 63788 resources: utime ~0s, stime ~0s, Rss ~17020, inblocks ~5882, outblocks ~14858
+Time: 0.205723
+Application 63789 resources: utime ~0s, stime ~0s, Rss ~21292, inblocks ~5882, outblocks ~14858
+4
+Time: 0.098751
+Application 63790 resources: utime ~1s, stime ~1s, Rss ~21296, inblocks ~6111, outblocks ~14858
+Time: 0.098315
+Application 63791 resources: utime ~1s, stime ~1s, Rss ~11988, inblocks ~6111, outblocks ~14858
+Time: 0.094965
+Application 63792 resources: utime ~1s, stime ~1s, Rss ~21300, inblocks ~6111, outblocks ~14858
+16
+Time: 0.015751
+Application 63793 resources: utime ~1s, stime ~6s, Rss ~21304, inblocks ~7024, outblocks ~14859
+Time: 0.015582
+Application 63794 resources: utime ~1s, stime ~3s, Rss ~11992, inblocks ~7024, outblocks ~14859
+Time: 0.015371
+Application 63795 resources: utime ~1s, stime ~6s, Rss ~21308, inblocks ~7024, outblocks ~14859
+25
+Time: 0.010432
+Application 63800 resources: utime ~1s, stime ~2s, Rss ~4416, inblocks ~7708, outblocks ~14860
+Time: 0.010367
+Application 63801 resources: utime ~1s, stime ~2s, Rss ~4204, inblocks ~7708, outblocks ~14860
+Time: 0.010440
+Application 63802 resources: utime ~1s, stime ~2s, Rss ~4432, inblocks ~7708, outblocks ~14860
+64
+Time: 0.008009
+Application 63803 resources: utime ~9s, stime ~114s, Rss ~8688, inblocks ~17130, outblocks ~29720
+Time: 0.008101
+Application 63804 resources: utime ~8s, stime ~100s, Rss ~8564, inblocks ~17126, outblocks ~29720
+Time: 0.008318
+Application 63805 resources: utime ~9s, stime ~114s, Rss ~8600, inblocks ~17130, outblocks ~29720
