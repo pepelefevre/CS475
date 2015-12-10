@@ -1,0 +1,78 @@
+512
+Data dimensions: 512x512 
+Grid Dimensions: 16x16 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.012390 (sec), nFlops: 268435456, GFlopsS: 21.665671
+Data dimensions: 512x512 
+Grid Dimensions: 16x16 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.012414 (sec), nFlops: 268435456, GFlopsS: 21.623644
+Data dimensions: 512x512 
+Grid Dimensions: 16x16 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.012404 (sec), nFlops: 268435456, GFlopsS: 21.641101
+Data dimensions: 512x512 
+Grid Dimensions: 16x16 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.012408 (sec), nFlops: 268435456, GFlopsS: 21.634032
+Data dimensions: 512x512 
+Grid Dimensions: 16x16 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.012403 (sec), nFlops: 268435456, GFlopsS: 21.642765
+256
+Data dimensions: 256x256 
+Grid Dimensions: 8x8 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.001568 (sec), nFlops: 33554432, GFlopsS: 21.398432
+Data dimensions: 256x256 
+Grid Dimensions: 8x8 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.001568 (sec), nFlops: 33554432, GFlopsS: 21.398432
+Data dimensions: 256x256 
+Grid Dimensions: 8x8 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.001566 (sec), nFlops: 33554432, GFlopsS: 21.424492
+Data dimensions: 256x256 
+Grid Dimensions: 8x8 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.001570 (sec), nFlops: 33554432, GFlopsS: 21.372436
+Data dimensions: 256x256 
+Grid Dimensions: 8x8 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.001566 (sec), nFlops: 33554432, GFlopsS: 21.427754
+1024
+Data dimensions: 1024x1024 
+Grid Dimensions: 32x32 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.100312 (sec), nFlops: 2147483648, GFlopsS: 21.408045
+Data dimensions: 1024x1024 
+Grid Dimensions: 32x32 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.100333 (sec), nFlops: 2147483648, GFlopsS: 21.403568
+Data dimensions: 1024x1024 
+Grid Dimensions: 32x32 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.100354 (sec), nFlops: 2147483648, GFlopsS: 21.399093
+Data dimensions: 1024x1024 
+Grid Dimensions: 32x32 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.100331 (sec), nFlops: 2147483648, GFlopsS: 21.403975
+Data dimensions: 1024x1024 
+Grid Dimensions: 32x32 
+Block Dimensions: 16x16 
+Footprint Dimensions: 32x32 
+Time: 0.100343 (sec), nFlops: 2147483648, GFlopsS: 21.401432
