@@ -1,0 +1,30 @@
+Algorithm Desc.
+  VecAdd:
+Vecadd is a simple algorithm that adds up two vectors of given size creating a vector of the sums.
+Each element in the resulting vector is the sum of the elements at that index in the other two vectors (C[i] = A[i] + B[i]).
+  MatMult:
+Matmult is a matrix multiplication algorithm that computes the product of two square matrices. 
+Each element in the horizontal rows of the first matrix are multiplied by corresponding element in the vertical column of the second matrix.
+The element in the product matrix is the sum of these values. This process is shown in the figure below.
+--Enter Picture--
+For this algorithm, the matrices are split into sub-matrices of FOOTPRINT_SIZE; and the total product is assembled with the products of the smaller matrices. 
+
+Parallelization:
+  Vecadd:
+The parallelization of vecadd is very simple. For the un-coalesced version, each CUDA thread simply performed the addition-
+for a block of consectutive indices. For example a thread would do 0-4, the next would do 5-9 and so on.
+This is actually poor for performance so the coalesced version reduces the number of memory accesses. 
+For the coalesced version, each thread still performs the same number of operations, but now each thread 
+does strided indices. For example if the block size were 16, the first thread would do 0, 16, 32, etc.
+This way the memory accesses are coalesced for the block which is much better for performance.
+  MatMult:
+This parallelization is also fairly simple. The sub-matrices are computed each by one thread block.
+For the original kernel, this means that each thread computes one value of the product matrix.
+This is done by creating two sub matrices (A and B) for that block in global memory. Then, the thread computes
+the value in C by accumulation using one row from A and column from B that are loaded into shared memory.
+--Enter InProduct--
+For the improved version, the FOOTPRINT_SIZE is doubled; but the thread BLOCK_SIZE remains the same.
+Therefore, each thread must now compute four values of C. This is accomplished in the same way as previously;
+however, now the thread must iterate over FOOTPRINT_SIZE and compute four C values from eight loaded rows/columns.
+This can still be done in a single in-product loop.
+--Enter new InProduct--
