@@ -1,48 +1,45 @@
-500
 Total vector size: 3840000
-Time: 0.004904 (sec), GFlopsS: 0.783067, GBytesS: 9.396807
-Test PASSED 
-Total vector size: 3840000
-Time: 0.004891 (sec), GFlopsS: 0.785129, GBytesS: 9.421543
+Time: 0.112254 (sec), GFlopsS: 0.034208, GBytesS: 0.410498
 Test PASSED 
 Total vector size: 3840000
-Time: 0.004906 (sec), GFlopsS: 0.782725, GBytesS: 9.392697
+Time: 0.112281 (sec), GFlopsS: 0.034200, GBytesS: 0.410399
 Test PASSED 
 Total vector size: 3840000
-Time: 0.004900 (sec), GFlopsS: 0.783677, GBytesS: 9.404123
+Time: 0.112255 (sec), GFlopsS: 0.034208, GBytesS: 0.410494
 Test PASSED 
 Total vector size: 3840000
-Time: 0.004905 (sec), GFlopsS: 0.782877, GBytesS: 9.394523
+Time: 0.112304 (sec), GFlopsS: 0.034193, GBytesS: 0.410315
 Test PASSED 
-1000
-Total vector size: 7680000
-Time: 0.010267 (sec), GFlopsS: 0.748026, GBytesS: 8.976315
-Test PASSED 
-Total vector size: 7680000
-Time: 0.010277 (sec), GFlopsS: 0.747297, GBytesS: 8.967569
+Total vector size: 3840000
+Time: 0.112265 (sec), GFlopsS: 0.034205, GBytesS: 0.410457
 Test PASSED 
 Total vector size: 7680000
-Time: 0.010267 (sec), GFlopsS: 0.748026, GBytesS: 8.976315
+Time: 0.226057 (sec), GFlopsS: 0.033974, GBytesS: 0.407685
 Test PASSED 
 Total vector size: 7680000
-Time: 0.010267 (sec), GFlopsS: 0.748026, GBytesS: 8.976315
+Time: 0.226065 (sec), GFlopsS: 0.033973, GBytesS: 0.407671
 Test PASSED 
 Total vector size: 7680000
-Time: 0.010288 (sec), GFlopsS: 0.746501, GBytesS: 8.958009
+Time: 0.226082 (sec), GFlopsS: 0.033970, GBytesS: 0.407640
 Test PASSED 
-2000
-Total vector size: 15360000
-Time: 0.020128 (sec), GFlopsS: 0.763116, GBytesS: 9.157387
+Total vector size: 7680000
+Time: 0.226110 (sec), GFlopsS: 0.033966, GBytesS: 0.407589
 Test PASSED 
-Total vector size: 15360000
-Time: 0.020075 (sec), GFlopsS: 0.765128, GBytesS: 9.181531
-Test PASSED 
-Total vector size: 15360000
-Time: 0.020118 (sec), GFlopsS: 0.763495, GBytesS: 9.161945
+Total vector size: 7680000
+Time: 0.226097 (sec), GFlopsS: 0.033968, GBytesS: 0.407612
 Test PASSED 
 Total vector size: 15360000
-Time: 0.020104 (sec), GFlopsS: 0.764030, GBytesS: 9.168356
+Time: 0.450255 (sec), GFlopsS: 0.034114, GBytesS: 0.409368
 Test PASSED 
 Total vector size: 15360000
-Time: 0.020123 (sec), GFlopsS: 0.763305, GBytesS: 9.159666
+Time: 0.450237 (sec), GFlopsS: 0.034115, GBytesS: 0.409384
+Test PASSED 
+Total vector size: 15360000
+Time: 0.450163 (sec), GFlopsS: 0.034121, GBytesS: 0.409452
+Test PASSED 
+Total vector size: 15360000
+Time: 0.450264 (sec), GFlopsS: 0.034113, GBytesS: 0.409360
+Test PASSED 
+Total vector size: 15360000
+Time: 0.450265 (sec), GFlopsS: 0.034113, GBytesS: 0.409359
 Test PASSED 
